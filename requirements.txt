@@ -1,0 +1,10 @@
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+pickle
+time
+logging
+streamlit
