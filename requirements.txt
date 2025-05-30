@@ -5,4 +5,3 @@ scipy
 statsmodels
 scikit-learn
 streamlit
-pickle
