@@ -14,7 +14,7 @@
 
 -----
 
-`backend.py` -> loading scaler, trained model and preprocessing functions to be applied on the new data
+`backend.py` -> loading scaler, trained model and preprocessing functions to be applied on the new data and prediction
 
 -----
 
@@ -22,4 +22,4 @@
 
 -----
 
-`deployment.yaml` -> deployment of docker image to kubernetes cluster
+`deployment.yaml` -> deployment of docker image to kubernetes cluster through CI/CD pipeline
