@@ -4,7 +4,7 @@
 
 `test.csv` -> testing data to test model performance
 
-
+-----
 
 `model.ipynb` -> contains steps - data loading, data preprocessing, data visualization, model training, evaluation, model selection
 
