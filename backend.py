@@ -2,11 +2,11 @@ import pandas as pd
 import pickle
 
 # Load Standardization parameters
-with open('scaler.pkl','rb') as f:
+with open('scaler/scaler.pkl','rb') as f:
    scaler=pickle.load(f)
    
 # Load the model
-with open('model.pkl','rb') as file:
+with open('model/model.pkl','rb') as file:
    model=pickle.load(file)
 
 # Store inputs inside a dataframe
